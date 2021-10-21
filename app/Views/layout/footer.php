@@ -23,9 +23,10 @@
     <!-- BEGIN: Page JS-->
    
     <!-- END: Page JS-->
-    <!-- BEGIN: chat JS-->
+
+    <!-- BEGIN: Sidebar JS-->
     <script src="../app-assets/js/scripts/pages/app-chat.js"></script>
-    <!-- END: chat JS-->
+    <!-- END: Sidebar JS-->
 
     <!-- BEGIN: custom JS-->
      <script src="../assets/js/layout.js"></script>

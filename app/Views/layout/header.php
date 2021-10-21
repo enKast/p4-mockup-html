@@ -35,10 +35,10 @@
     <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
     <!-- END: Custom CSS-->
 
-    <!-- BEGIN: Chat CSS-->
+    <!-- BEGIN: Sidebar  CSS-->
     <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/app-chat.css">
     <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/app-chat-list.css">
-    <!-- END: Chat CSS-->
+    <!-- END:  Sidebar CSS-->
 
     
 
