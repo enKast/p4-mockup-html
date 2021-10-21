@@ -23,6 +23,13 @@
     <!-- BEGIN: Page JS-->
    
     <!-- END: Page JS-->
+    <!-- BEGIN: chat JS-->
+    <script src="../app-assets/js/scripts/pages/app-chat.js"></script>
+    <!-- END: chat JS-->
+
+    <!-- BEGIN: custom JS-->
+     <script src="../assets/js/layout.js"></script>
+    <!-- END: custom JS-->
 
     <script>
         $(window).on('load', function() {

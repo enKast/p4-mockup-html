@@ -35,6 +35,13 @@
     <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
     <!-- END: Custom CSS-->
 
+    <!-- BEGIN: Chat CSS-->
+    <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/app-chat.css">
+    <link rel="stylesheet" type="text/css" href="../app-assets/css/pages/app-chat-list.css">
+    <!-- END: Chat CSS-->
+
+    
+
 </head>
 <!-- BEGIN: Body-->
 
@@ -99,7 +106,7 @@
                                         </div>
 
                                         <div class="row col-lg-6 col-sm-12">
-                                            <section id="basic-tabs-components" class="">
+                                            <section id="basic-tabs-components" class="ml-auto">
                                                 <div class="row match-height ">
                                                     <!-- Basic Tabs starts -->
                                                     <div class="col mob-tab">
